@@ -7,6 +7,9 @@ sudo apt upgrade -y
 sudo apt install htop -y
 sudo apt install btop -y
 
+#For HEIC images (https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
+sudo apt install heif-gdk-pixbuf
+
 
 #Development tools
 sudo apt install git -y
